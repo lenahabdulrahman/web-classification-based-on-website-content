@@ -11,6 +11,7 @@ A real-time website classifier was developed for page content-based filtering us
 
 ## Dataset
 A public dataset available on Kaggle was used:[ click here](https://www.kaggle.com/datasets/hetulmehta/website-classification).
+
 The dataset was compiled by scraping URLs and categorized into different categories based on the content of the extracted text. The dataset contains 1408 records and 3 attributes, including the target category. In addition, the target class contains 16 different classes, while the other attributes are purely text variables.
 
 ## Experimental-setup
